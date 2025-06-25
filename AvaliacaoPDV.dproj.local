@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/24 23:26:30.000.416,C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\PDV_Avaliacao.dproj=C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\AvaliacaoPDV.dproj</Transaction>
+    <Transaction>2025/06/24 23:39:35.000.965,=C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\src\U_Consulta.pas</Transaction>
+    <Transaction>2025/06/24 23:39:36.000.299,=C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\src\U_Principal.pas</Transaction>
+    <Transaction>2025/06/24 23:39:36.000.077,=C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\src\U_DM.pas</Transaction>
+    <Transaction>2025/06/24 23:41:43.000.206,=C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\src\Controles\Controle_Pessoa.pas</Transaction>
+    <Transaction>2025/06/24 23:41:43.000.228,=C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\src\Controles\Controle_Produto.pas</Transaction>
+    <Transaction>2025/06/24 23:41:43.000.172,=C:\Sistemas\PDVAvaliacao-main\PDVAvaliacao-main\src\Controles\Controle_Pedido.pas</Transaction>
+  </Transactions>
+</BorlandProject>
